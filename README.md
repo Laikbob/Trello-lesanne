@@ -1,4 +1,4 @@
-https://github.com/Laikbob/Trello-lesanne/wiki# IT Organisatsiooni Juhtimine ja Taristu
+#IT Organisatsiooni Juhtimine ja Taristu
 
 See repo sisaldab kõiki minu töid, mis on seotud õppeainega **IT organisatsiooni juhtimine ja taristu**. 
 
